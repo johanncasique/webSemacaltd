@@ -1,0 +1,983 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	background-color:#EAECEE;
+}
+.container{
+	padding-left:0px;
+	padding-right:0px;
+}
+
+.logo-nav-bar{
+padding:5px 10px 0 27px;
+	
+}
+
+.nav-bar-color {
+ background-color: #333;
+}
+
+
+
+.item-nav-bar {
+	
+width:100%;
+height:500;
+background-color:inherit;
+}
+
+ 
+.item {
+
+background-color: none !important;
+}
+
+.active1{
+	margin:0 0 0 0;
+	background:no-repeat;
+	
+}
+.btn-samsung{
+	background-color:#F7F4F6;
+	border:thin;
+	
+}
+.phone-link{
+	color:#333;
+	text-decoration:none;
+	
+	
+}
+
+a{
+	text-decoration:none !important;
+}
+footer{
+
+	
+}
+.container-footer{
+	 
+	 height:275;
+	 background-color:#FCFBFB;
+	 margin:0 0 0 0;
+	 padding:0 0 0 0;
+	
+	
+}
+.margin-footer{	
+	 height:275;
+	 background-color:#FCFBFB;
+	 
+}
+.margin-footer2{
+    float:left;
+	width:100%;
+	margin:0 0 0 0;
+}
+.ul-footer{
+   float:right;
+   list-style:none;
+   font-family: ArcaMajora-Heavy;
+   font-size: 14px;
+   color: #979797;
+   line-height: 33px;
+   padding:12px 39px 16px 0;
+   text-align:left;
+}
+.div-footer-direccion{
+float:left;
+padding:16px 0 0 40px;
+text-align:left;
+
+}
+.div-footer-correo{
+	float:left;
+	padding:16px 0 0 211px;
+	text-align:left;
+	
+}
+
+.p1-footer{
+   font-family: AvenirNext-Bold;
+   font-size: 14px;
+   color: #4A4A4A;
+   line-height: 19px;	
+}
+
+.p2-footer{
+   
+  font-family: AvenirNext-Bold;
+  font-size: 14px;
+  color: #979797;
+  line-height: 20px;	
+	
+}
+.buzon-mail{
+float:left;
+padding:6px 0 0 6px;	
+}
+
+.social-footer{
+	margin:0 0 0 34px;
+	padding:200px 0 0 0;	
+	
+}
+
+footer{
+
+display:block;
+}
+
+.face{
+	margin-left:6px;
+	float:left;
+}
+.twitter{
+	margin-left:25px;
+	float:left;
+}
+.instagram{
+	margin-left:25px;
+	float:left;
+}
+/*Servicios*/
+.div-bienvenida{
+	   background-color:#40A7E1;
+	   height:300px;
+	   display:block;	
+	   margin-top:-20px;
+		
+	}
+
+.img-servicio-tecnico-lg{
+ margin-left:76px;
+ margin-top:30px;
+ padding:0 0 0 0;
+ }
+  .img-servicio-tecnico-md{
+ margin-left:30px;
+ margin-top:30px;
+ padding:0 0 0 0;
+ }
+
+ .img-servicio-tecnico-sm{
+ margin-left:21px;
+ margin-top:30px;
+ padding:0 0 0 0;
+ }
+ .img-servicio-tecnico-xs{
+   height:150px;
+   width:150px;
+   margin-left:-9px;
+   margin-top:30px;
+   padding:0 0 0 22px;
+   float:left;
+ }
+ 
+ .content-servicio-tecnico{
+	 padding-top:06px;
+	 width:59%;
+	 float:left;
+	 right:50%;
+	 left:auto;
+	 padding-left:10px;
+	  }
+	  
+ .content-servicio-tecnico > h1{
+	 font-size: 3.28em;
+     line-height: 1.07;
+     font-weight: 200;
+    text-align: center;
+    letter-spacing: -1px;
+	 
+	 }
+	 
+ .content-servicio-tecnico > p{
+	font-size: 1.5em;
+    line-height: 1.5;
+    text-align: center;
+    padding: 0 0 25px 0;
+    color: #FFF;
+    margin-top: .5em;
+	 
+}
+.info-planes >li {
+	-webkit-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    -moz-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    height: 550px;
+    width: 356px;
+    display: inline-block;
+    vertical-align: top;
+    background: #E6E6E6;
+    margin: 2px 2px 30px 70px;
+	padding:8px 0 0 0;
+	}
+	
+.logo-apple-servicios {
+	position: relative;
+	top: -9px;
+	left: -2px;
+}
+.info-planes{
+	
+   
+    margin:9px 14px 0 14px;
+	padding:0 0 0 96px;
+	
+	}
+.info-planes h2 {
+	color:#2F4B66;
+	text-align: center;
+    font-size: 1.5em;
+    font-style: normal;
+    margin: 20px;	
+}
+	
+.precio {
+	background-color: #679b08 !important;
+	border-bottom-color: #578307;
+	border-bottom-width:04px;
+    font-size: 1.5em;
+	color:#FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+	margin:0 0 20px 0;
+	padding:6px 23px 9px 23px ;
+	
+}
+.info-planes div{
+    margin: 0 0 0 0 ;
+	paddin:0 0 0 0;	
+	
+}
+.info-planes li .precio >span{
+	color: #FFFFFF;
+    font-weight: normal;
+    font-size: 0.7em;
+	
+}
+.info-planes li ul{
+
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+
+		
+}
+
+.info-planes li ul li{
+	color:black;
+    background:#CCCCCC;
+	
+	font-size:1.23em;
+	padding:9px 0 0 0;
+	margin:17px 0 0 0;
+	list-style-type:none;
+	text-align:center;
+	font-weight:200;
+	letter-spacing:1px;
+  	}
+
+.info-planes  div{
+	text-align:center;
+	padding:0 0 0 0;
+	
+}
+
+/*Acerca de*/
+
+.acercade-img {
+	 background-image: url(../imagenes/logo-semaca-800x60.png);
+	 padding:0 0 0 0;
+	 margin:38px 0 78px 180px;
+	 width:800px;
+	 height:60px;
+	 background-repeat:no-repeat;
+     
+}
+
+.container h1{
+	text-align:center;
+	margin-top:50px;
+	font-size:4em;
+}
+
+.texto-acercade {
+	font-family: "Myriad Set Pro","Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+	font-size:18px;
+	line-height:1.4em;
+	color:#333;
+	margin-bottom:180px;
+	margin-top:20px;
+	text-align:justify;
+	
+}
+
+/*Contactanos*/
+
+.map{
+margin:80px 0 80px 0;
+padding-left:300px;	
+	
+}
+.map-md{
+	margin:80px 0 80px 0;
+	padding-left:243px;
+}
+.contactanos {
+	text-align:center;
+	font-size:3em;
+	font-weight:100;
+	margin:2px 1px 0 0;
+	
+}
+/*Ofertas-Main*/
+.main-ofertas-samsung{
+	padding: 26px 6px 0 76px !important;
+	
+}
+.info-ofertas{
+	padding-left: 150px;
+	padding-top:100px;
+}
+.info-ofertas >li {
+	-webkit-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    -moz-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    height: 550px;
+    width: 356px;
+    display: inline-block;
+    vertical-align: top;
+    background: #E6E6E6;
+    margin: 2px 2px 133px 50px;
+	padding:8px 0 0 0;
+	
+	}
+.info-ofertas li >h2{
+	background-image:url(../imagenes/logo-samsung-2x.png);
+	background-repeat: no-repeat;
+	background-size: 250px 41px;
+	height: 41px;
+	width: 250px;
+	color:transparent;
+	position: relative;
+	text-align: center;
+	left: 50px;
+	margin-top: 26px;
+}
+
+.info-ofertas li >h3{
+	background-image:url(../imagenes/iphoneLogo.png);
+	background-repeat: no-repeat;
+	background-size: 250px 55px;
+	height: 72px;
+	width: 290px;
+	color:transparent;
+	float: none;
+	position: relative;
+	top:15px;
+	left: 48px;
+	margin: 0;
+}
+.main-apple {
+	max-width: 100%;
+	max-height: 72%;
+	position: relative;
+	top: 26px;
+	left: 84px;
+	
+	
+}
+
+
+/*Ofertas-Iphone================================================================================*/
+
+.grupo-logo{
+	float:left;
+	padding:0 121px 0 200px;
+	margin-top:-20px;
+}
+.semaca-logo-alone{
+	float:left;
+	padding:0 0 0 276px;
+	margin-top:-20px;
+	}
+.titulo-ofertas{
+    background-image:url(../imagenes/iphoneLogo.png);
+    background-repeat:no-repeat;
+	background-size:299px 72px;
+    height: 72px;
+    width: 299px;
+    margin-left: auto;
+    margin-right: auto;
+    font: 0/0 a;
+    color: transparent;
+    margin-bottom: 20px;
+		}
+.info-ofertas-iphone li >div{
+	height: 300px;
+}
+.info-ofertas-iphone >li{
+    -webkit-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    -moz-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    height: 550px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    background: #E6E6E6;
+    margin: 2px 2px 133px 50px;
+    padding: 8px 0 0 0;
+}
+.info-ofertas-iphone li div >h2{
+	background-image:url(../imagenes/iphoneLogo.png);
+	background-repeat: no-repeat;
+	background-size: 250px 55px;
+	height: 72px;
+	width: 290px;
+	color:transparent;
+	float: none;
+	position: relative;
+	top:15px;
+	left: 120px;
+	margin: 0;
+}
+.info-ofertas-iphone li div >h1{
+	background-image:url(../imagenes/iPhone_6_plus_logo.svg.png);
+	background-repeat: no-repeat;
+	background-size: 273px 55px;
+	height: 72px;
+	width: 290px;
+	color:transparent;
+	float: none;
+	position: relative;
+	top:15px;
+	left: 120px;
+	margin: 0;
+}
+.info-ofertas-iphone li >div{
+	position: relative;
+}
+.info-ofertas-iphone li ul li{
+	color:black;
+    background:#CCCCCC;
+	font-size:1.3em;
+	padding:9px 0 0 0;
+	margin:17px 0 0 0;
+	list-style-type:none;
+	text-align:left;
+	font-weight:100;
+	letter-spacing:0.5px;
+
+  	}
+  .info-ofertas-iphone li ul{
+    
+    font-size:1.23em;
+	position: relative;
+	top: -311px;
+	left: 210px;
+	width: 290px;
+
+  	}
+  .precio-iphone {
+	background-color: #679b08 !important;
+	border-bottom-color: #578307;
+	border-bottom-width:04px;
+    font-size: 1.5em;
+	color:#FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+	margin:0 0 20px 0;
+	padding:6px 23px 9px 23px;
+	position: relative;
+	left: 280px;
+	top: -286px;
+	
+}
+.img-iphone6-16gb{
+	height: 372px;
+    width: 224px;
+    position: relative;
+    left: 18px;
+    top:25px;
+  }
+  .precio-iphone6-64gb{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 0px;
+
+  }
+  .main-apple2{
+  	  max-width: 100%;
+      max-height: 72%;
+      position: relative;
+      top: 26px;
+      left: 84px;
+  }
+
+ .precio-iphone6-16gb ul{
+ 	float: right;
+ 	text-decoration: none;
+
+ }
+
+.titulo-ofertas-h2{
+	margin-bottom: 10px;
+    font-size: 3em;
+	letter-spacing: -1px;
+	line-height: 1.0909;
+    font-weight: 200;
+	text-align:center;
+}
+.hr-ofertas{
+	float:left;
+}
+
+.intro{
+	font-size: 1.75em;
+    line-height: 1.4286;
+    font-weight: 200;
+	text-align:center;
+	margin:auto;
+	width:89%;
+}
+.description-2{
+	font-size: 1.75em;
+    line-height: 1.4286;
+    font-weight: 200;
+	text-align:center;
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	position:relative;
+	top:71px;
+}
+.ofertas-iphone-1{
+    background-size:700px 800px;	
+    padding:54px 0 54px 0;
+	margin:0 0 0 0;
+}
+.column-1{
+	z-index: 1;
+    min-height: 2px;
+    margin: 17px 0 38px 0;;
+    padding: 0;
+    float: left;
+    width: 100%;
+	background-color:#EAECEE;
+}
+.column-2{
+	margin:18px 0 0 0;
+	padding:11px 0 29px 0px;
+	background-color:#EAECEE;
+	
+}
+.column-3{
+	margin:0px 0 48px 0;
+	padding:40px 0 58px 0px;
+	background-color:#EAECEE;
+	
+	
+}
+.row-1{
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	float:left;
+	position: relative;
+    top: 457px;
+	left:73px;
+    white-space: nowrap;
+}
+
+.row-2{
+	margin:0 0 0 0;
+	padding:0 0 0 0;
+	position: relative;
+    top: -421px;
+	left:859px;
+    white-space: nowrap;
+}
+.middle-iphone {
+	margin:170px 0 0 0;
+	padding:0 0 0 0;
+
+	
+}
+ .middle-iphone > img{
+	background-repeat: no-repeat;
+  
+    bottom: 0;
+    
+	padding:0 0 0 58px;;
+	margin:0 0 0 0;
+}
+.bottom-img-1{
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	float:left;
+	background-color:#F7F7F7;
+	height:226px;
+	position:relative;
+	top:10px;
+}
+.bottom-img-2{
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	float:left;
+	position:relative;
+	top:9px;
+	background-color:#F7F7F7;
+	height:226px;
+	left:12px;
+}
+.bottom-img-2 >img{
+	padding:20px 0 0 0;
+	margin:0 0 0 0;
+}
+.bottom-img-3{
+	padding:0 0 0 0;
+	margin:0 0 0 0;
+	float:left;
+	position:relative;
+	top:22px;
+	background-color:#F7F7F7;
+	height:426px;
+}
+.bottom-img-3 >img{
+	padding-top:100px;
+}
+/*Ofertas-samsung=============================================================================*/
+
+.titulo-ofertas-samsung{
+	background-image: url(../imagenes/samsung-logo-main-ofertas.png);
+	background-repeat: no-repeat;
+	color: transparent;
+	background-size: 630px 295px;
+    height: 295px;
+    width: 630px;
+    margin-left: auto;
+    margin-right: auto;
+    font: 0/0 a;
+    margin-bottom: 20px;
+    margin-top: 81px !important;
+
+}
+.info-ofertas-samsung li >div{
+	height: 300px;
+}
+.info-ofertas-samsung >li{
+    -webkit-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    -moz-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    height: 550px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    background: #E6E6E6;
+    margin: 2px 2px 133px 50px;
+    padding: 8px 0 0 0;
+}
+.h2-galaxyS5{
+	background-image:url(../imagenes/logo-galaxy-s5.png);
+	background-repeat: no-repeat;
+	background-size: 250px 55px;
+	height: 72px;
+	width: 290px;
+	color:transparent;
+	float: none;
+	position: relative;
+	top:15px;
+	left: 137px;
+	margin: 0;
+}
+.info-ofertas-samsung div >h2{
+	text-align: center;
+	font-weight: 200;
+}
+.info-ofertas-samsung li div >h1{
+	background-image:url(../imagenes/iPhone_6_plus_logo.svg.png);
+	background-repeat: no-repeat;
+	background-size: 273px 55px;
+	height: 72px;
+	width: 290px;
+	color:transparent;
+	float: none;
+	position: relative;
+	top:15px;
+	left: 147px;
+	margin: 0;
+}
+.info-ofertas-samsung li >div{
+	position: relative;
+}
+.info-ofertas-samsung li ul li{
+	color:black;
+    background:#CCCCCC;
+	font-size:1.3em;
+	padding:9px 0 0 0;
+	margin:17px 0 0 0;
+	list-style-type:none;
+	text-align:left;
+	font-weight:100;
+	letter-spacing:0.5px;
+
+  	}
+  .info-ofertas-samsung li ul{
+    
+    font-size:1.23em;
+	position: relative;
+	top: -311px;
+	left: 210px;
+	width: 290px;
+
+  	}
+  	.img-samsung-s5{
+	height: 372px;
+    width: 224px;
+    position: relative;
+    left: 131px;
+    top:6px;
+  }
+
+  	.img-samsungMiniS4{
+	height: 390px;
+    width: 224px;
+    position: relative;
+    left: 137px;
+    top:5px;
+  }
+  	.img-samsungMiniS3{
+	height: 390px;
+    width: 224px;
+    position: relative;
+    left: 137px;
+    top:5px;
+  }
+ .precio-samsung {
+	background-color: #679b08 !important;
+	border-bottom-color: #578307;
+	border-bottom-width:04px;
+    font-size: 1.5em;
+	color:#FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+	margin:0 0 20px 0;
+	padding:6px 23px 9px 23px;
+	position: relative;
+	left: -51px;
+	top: 250px;
+	
+}
+/*Galaxy S5==============================================================================*/
+.info-ofertas-samsungS5 li >div{
+	height: 300px;
+}
+.info-ofertas-samsungS5 >li{
+    -webkit-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    -moz-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    height: 550px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    background: #E6E6E6;
+    margin: 2px 2px 133px 50px;
+    padding: 8px 0 0 0;
+}
+
+.info-ofertas-samsungS5 li ul li{
+	color:black;
+    background:#CCCCCC;
+	font-size:1.3em;
+	padding:2px 0 4px 0;
+	margin:17px 0 0 0;
+	list-style-type:none;
+	text-align:left;
+	font-weight:200;
+	letter-spacing:0.5px;
+
+  	}
+.info-ofertas-samsungS5 li >div{
+	position: relative;
+}
+.info-ofertas-samsungS5 li ul{
+    
+    font-size:1.0em;
+	position: relative;
+	top: -332px;
+	left: 191px;
+	width: 309px;
+
+  	}
+ .img-samsung-s5-2{
+	height: 372px;
+    width: 224px;
+    position: relative;
+    left: 1px;
+    top:6px;
+  }
+.img-samsung-s5-black{
+	height: 372px;
+    width: 205px;
+    position: relative;
+    left: 15px;
+    top:6px;
+  }
+.precio-samsungS5 {
+	background-color: #679b08 !important;
+	border-bottom-color: #578307;
+	border-bottom-width:04px;
+    font-size: 1.5em;
+	color:#FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+	margin:0 0 20px 0;
+	padding:6px 23px 9px 23px;
+	position: relative;
+	left: 171px;
+	top: -284px;
+}
+.precio-samsungS5 span{
+	letter-spacing: 0.3px;
+	font-weight: 100;
+}
+.col-md-6{
+	width: 100% !important;
+}
+.col-md-6 h1{
+	text-align: center;
+	font-weight: 200;
+	font-size: 6em;
+}
+.col-md-6 p{
+	text-align: justify;
+	font-weight: 200;
+	font-size: 1.50em;
+}
+.col-md-4{
+	width: 100% !important;
+}
+.col-md-4 h3{
+	font-weight: 200;
+	text-align: center;
+	font-size: 2.80em;
+}
+.col-md-4 p{
+	text-align: justify;
+	font-size: 1.50em;
+	font-weight: 200;
+}
+.col-md-4 img{
+	position: relative;
+	left: 178px;
+}
+/*GalaxyMinis S4==========================================================================*/
+.info-ofertas-samsungMiniS4 li >div{
+	height: 300px;
+}
+.info-ofertas-samsungMiniS4 >li{
+    -webkit-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    -moz-box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    box-shadow: 6px 7px 32px -6px rgba(0,0,0,0.56);
+    height: 550px;
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+    background: #E6E6E6;
+    margin: 2px 2px 133px 50px;
+    padding: 8px 0 0 0;
+}
+
+.info-ofertas-samsungMiniS4 li ul li{
+	color:black;
+    background:#CCCCCC;
+	font-size:1.3em;
+	padding:2px 0 4px 0;
+	margin:17px 0 0 0;
+	list-style-type:none;
+	text-align:left;
+	font-weight:200;
+	letter-spacing:0.5px;
+
+  	}
+.info-ofertas-samsungMiniS4 li >div{
+	position: relative;
+}
+.info-ofertas-samsungMiniS4 li ul{
+    
+    font-size:1.0em;
+	position: relative;
+	top: -378px;
+	left: 191px;
+	width: 309px;
+
+  	}
+ .img-samsung-s5-2{
+	height: 372px;
+    width: 224px;
+    position: relative;
+    left: 1px;
+    top:6px;
+  }
+.img-samsung-s5-black{
+	height: 372px;
+    width: 205px;
+    position: relative;
+    left: 15px;
+    top:6px;
+  }
+.precio-samsungMiniS4 {
+	background-color: #679b08 !important;
+	border-bottom-color: #578307;
+	border-bottom-width:04px;
+    font-size: 1.5em;
+	color:#FFFFFF;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+	margin:0 0 20px 0;
+	padding:6px 23px 9px 23px;
+	position: relative;
+	left: 171px;
+	top: -354px;
+}
+.precio-samsungMiniS4 span{
+	letter-spacing: 0.3px;
+	font-weight: 100;
+}
+.col-md-5-S4{
+	width: 100%;
+}
+.col-md-5-S4 h3{
+	font-weight: 200;
+	text-align: center;
+	font-size: 2.80em;
+}
+.col-md-5-S4 p{
+	text-align: justify;
+	font-size: 1.50em;
+	font-weight: 200;
+}
+.img-miniS4 img{
+	position: relative;
+	
+	max-width: 100%;
+}
+.col-md-3-S4{
+ width: 50%;
+ float: left;
+}
+.col-md-3-S4 img{
+   max-width: 100%;
+}
+.info-S4{
+	float: left;
+}
+
+	
+	
